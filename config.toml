@@ -63,15 +63,9 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-<<<<<<< HEAD
-<<<<<<< HEAD
+
   name = "Daniel B. Baker"
-=======
-  name = "Daniel Baker"
->>>>>>> 144b284595a343331a58381123b62c7d06a399c2
-=======
-  name = "Daniel Baker"
->>>>>>> 144b284595a343331a58381123b62c7d06a399c2
+
   role = "Doctoral Candidate"
 
   # Organizations/Affiliations.

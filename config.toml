@@ -63,8 +63,12 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+<<<<<<< HEAD
+  name = "Daniel B. Baker"
+=======
+  name = "Daniel Baker"
+>>>>>>> 144b284595a343331a58381123b62c7d06a399c2
+  role = "Doctoral Candidate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -271,12 +275,12 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "CV"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Research"
   url = "#posts"
   weight = 3
 

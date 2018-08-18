@@ -279,7 +279,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Research"
-  url = "/home/posts/"
+  url = "#posts"
   weight = 3
 
 [[menu.main]]

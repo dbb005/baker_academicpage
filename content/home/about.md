@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Organizational Behavior and Theory",
+    "Bureaucrat Decision Making",
+    "Leadership",
+    "Criminal Justice Policy"
   ]
 
 # List your qualifications (such as academic degrees).
+# [[education.courses]]
+  course = "Doctoral Candidate in Public Policy and Management"
+  institution = "Ohio State University"
+# year = 2012
+
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "M.S., Criminal Justice & Criminology"
+  institution = "Appalachian State University"
+  year = 2015
+
+[[education.courses]]
+  course = "B.S., Criminal Justice & Criminology"
+  institution = "Appalachian State University"
   year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ I study decision-making, specifically how social identity influences decisions and outcomes when bureaucrats interact with citizens. Additionally, I study how leaders in police organizations set norms and establish an organizational culture, and how this culture influences police performance and police-community relations.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+ I also teach undergraduate courses on Writing and Communication in Public Affairs and Public Affairs Decision Making.
